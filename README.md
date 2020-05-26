@@ -6,4 +6,4 @@ This repository will contain all my work done on Aspen Plus following the curric
   - Online classes on Udemy 
 
 And additional projects on AspenHYSYS following the curriculum of:
-  - Online classes on Udemu
+  - Online classes on Udemy
